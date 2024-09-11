@@ -416,5 +416,3 @@ This project demonstrates the application of various regression models to predic
 - Conduct a more thorough hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
 
 ---
-
-This documentation provides a comprehensive overview of your project, including the steps taken, the code used, and the results obtained. Make sure to replace `[Value]` with the actual values obtained from your analysis.
