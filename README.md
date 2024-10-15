@@ -262,8 +262,8 @@ pickle.dump(rid, open('rid.pkl', 'wb'))
 - R2 Score:             0.8753460589519703
 
 ### ElasticNetCV
-- Mean Absolute Error:
-- R2 Score: 
+- Mean Absolute Error: 0.6575946731430904
+- R2 Score:            0.9814217587854941
 
 ## Conclusion
 This project demonstrates the application of various regression models to predict the Fire Weather Index (FWI). The models were evaluated based on Mean Absolute Error and R2 Score. Hyperparameter tuning was performed to improve model performance. The best model can be selected based on the evaluation metrics.
