@@ -238,32 +238,32 @@ pickle.dump(rid, open('rid.pkl', 'wb'))
 ## Results
 
 ### Linear Regression
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error: 0.5468236465249978
+- R2 Score:            0.9847657384266951
 
 ### Lasso Regression
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error: 1.1331759949144085
+- R2 Score:            0.9492020263112388
 
 ### LassoCV
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error: 0.6199701158263433
+- R2 Score:            0.9820946715928275
 
 ### Ridge Regression
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error:  0.5642305340105693
+- R2 Score:             0.9842993364555513
 
 ### RidgeCV
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error: 0.5642305340105693
+- R2 Score:            0.9842993364555513
 
 ### Elastic Net
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error:  1.8822353634896
+- R2 Score:             0.8753460589519703
 
 ### ElasticNetCV
-- Mean Absolute Error: [Value]
-- R2 Score: [Value]
+- Mean Absolute Error:
+- R2 Score: 
 
 ## Conclusion
 This project demonstrates the application of various regression models to predict the Fire Weather Index (FWI). The models were evaluated based on Mean Absolute Error and R2 Score. Hyperparameter tuning was performed to improve model performance. The best model can be selected based on the evaluation metrics.
